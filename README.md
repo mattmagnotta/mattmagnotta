@@ -1,3 +1,5 @@
+![alt text](Header.svg)
+
 ### About Me
 Hi, I'm Matthew, a software developer, designer, and photographer. As a youngster, I joined the military, unsure of what path in life I wanted to pursue. During those times, I learned some invaluable lessons, traveled to awesome countries, and made everlasting bonds. I had also found my true calling, code. 
 
