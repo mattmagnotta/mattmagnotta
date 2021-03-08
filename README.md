@@ -1,7 +1,5 @@
 ![alt text](Header.svg)
-
-### About Me
-Hi, I'm Matthew, a software developer, designer, and photographer. As a youngster, I joined the military, unsure of what path in life I wanted to pursue. During those times, I learned some invaluable lessons, traveled to awesome countries, and made everlasting bonds. I had also found my true calling, code. 
+I am a software developer, designer, and photographer. As a youngster, I joined the military, unsure of what path in life I wanted to pursue. During those times, I learned some invaluable lessons, traveled to awesome countries, and made everlasting bonds. I had also found my true calling, code. 
 
 I attended PDX Code Guild in Portland and got my first taste of the software development life cycle.  I developed a few Python, Javascript, and Django projects with some REST-api's. After graduation, I went back for their Javascript course covering Node.js and React. This is when all the pieces started to glue together. I had now gained the skills necessary to get ideas and designs from my head into something tangible.
 
