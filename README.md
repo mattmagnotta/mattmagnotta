@@ -13,3 +13,4 @@ Desire, determination, passion, enjoyment. Don't give up... ever. Build lots of 
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
